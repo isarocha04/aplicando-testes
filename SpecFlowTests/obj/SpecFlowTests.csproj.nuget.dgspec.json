@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
