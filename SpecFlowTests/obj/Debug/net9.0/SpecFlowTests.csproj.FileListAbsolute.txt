@@ -1,0 +1,15 @@
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/bin/Debug/net9.0/SpecFlowTests
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/bin/Debug/net9.0/SpecFlowTests.deps.json
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/bin/Debug/net9.0/SpecFlowTests.runtimeconfig.json
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/bin/Debug/net9.0/SpecFlowTests.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/bin/Debug/net9.0/SpecFlowTests.pdb
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.AssemblyInfoInputs.cache
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.AssemblyInfo.cs
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.csproj.CoreCompileInputs.cache
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.sourcelink.json
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/refint/SpecFlowTests.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.pdb
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/SpecFlowTests.genruntimeconfig.cache
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/SpecFlowTests/obj/Debug/net9.0/ref/SpecFlowTests.dll
