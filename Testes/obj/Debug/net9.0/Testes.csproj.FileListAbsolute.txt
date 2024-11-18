@@ -1,0 +1,12 @@
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/bin/Debug/net9.0/Testes.deps.json
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/bin/Debug/net9.0/Testes.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/bin/Debug/net9.0/Testes.pdb
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.AssemblyInfoInputs.cache
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.AssemblyInfo.cs
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.csproj.CoreCompileInputs.cache
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.sourcelink.json
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/refint/Testes.dll
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/Testes.pdb
+/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/obj/Debug/net9.0/ref/Testes.dll

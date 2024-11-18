@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Testes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Testes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Testes.dll": {}
+        }
       }
     }
   },
@@ -932,11 +942,17 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Testes/1.0.0": {
+      "type": "project",
+      "path": "../Testes/Testes.csproj",
+      "msbuildProject": "../Testes/Testes.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.11.1",
+      "Testes >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.0",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -966,7 +982,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/Testes.csproj": {
+              "projectPath": "/Users/isabelarocha/Documents/GitHub/aplicando-testes/Testes/Testes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
